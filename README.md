@@ -3,4 +3,4 @@ Here is my first github repository, let's do it!
 
 Readme.edite file was just changed
 
-modified in the in terminal/locally
+after conflic I modified it again
